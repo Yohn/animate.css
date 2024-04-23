@@ -1,5 +1,5 @@
 @keyframes swoopOutRight {
-  0% {
+  from {
     transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
   }
 
@@ -92,7 +92,7 @@
     transform: translate3d(80.75%, 0, 0) scale3d(1.44, 1, 1);
   }
   
-  100% {
+  to {
     opacity: 0;
     transform: translate3d(100%, 0, 0) scale3d(1.5, 1, 1);
   }

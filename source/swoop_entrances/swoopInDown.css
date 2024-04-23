@@ -1,5 +1,5 @@
 @keyframes swoopInDown {
-  0% {
+  from {
     transform: translate3d(0, 100%, 0) scale3d(1, 1.5, 1);
   }
 
@@ -91,7 +91,7 @@
     transform: translate3d(0, -0.3%, 0) scale3d(1, 1, 1);
   }
   
-  100% {
+  to {
     transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
   }
 }
