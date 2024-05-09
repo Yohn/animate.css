@@ -1,5 +1,6 @@
 @keyframes swoopInDown {
   from {
+    opacity: 0;
     transform: translate3d(0, 100%, 0) scale3d(1, 1.5, 1);
   }
 
@@ -60,6 +61,7 @@
   }
 
   65% {
+    opacity: 1;
     transform: translate3d(0, -9.22%, 0) scale3d(1, 1.02, 1);
   }
 

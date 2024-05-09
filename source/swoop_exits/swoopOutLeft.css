@@ -60,6 +60,7 @@
   }
 
   65% {
+    opacity: 1;
     transform: translate3d(-2.57%, 0, 0) scale3d(1.14, 1, 1);
   }
 
@@ -84,7 +85,6 @@
   }
 
   91% {
-    opacity: 1;
     transform: translate3d(-63.78%, 0, 0) scale3d(1.38, 1, 1);
   }
 
