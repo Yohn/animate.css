@@ -1,12 +1,12 @@
-  .animate__vanish
+  .animate__fadeSmoke
   {
-    -webkit-animation-name: vanish;
-  animation-name: vanish;
+    -webkit-animation-name: fadeSmoke;
+  animation-name: fadeSmoke;
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
   }
 
-       @keyframes vanish
+       @keyframes fadeSmoke
        {
         0%
         {
