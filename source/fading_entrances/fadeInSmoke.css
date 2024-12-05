@@ -1,9 +1,8 @@
-.animate__fadeInSmoke {
+.fadeInSmoke {
   -webkit-animation-name: fadeInSmoke;
   animation-name: fadeInSmoke;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
-  animation-iteration-count: infinite;
 }
 
 @keyframes fadeInSmoke {

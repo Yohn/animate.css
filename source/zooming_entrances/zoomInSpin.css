@@ -22,7 +22,7 @@
   }
 }
 
-.animate__zoomInSpin {
+.zoomInSpin {
   -webkit-animation-name: zoomInSpin;
   animation-name: zoomInSpin;
 }

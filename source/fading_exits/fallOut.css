@@ -32,7 +32,7 @@
   }
 }
 
-.animate__fallOut {
+.fallOut {
   -webkit-animation-name: fallOut;
   animation-name: fallOut;
   -webkit-animation-duration: 2s;

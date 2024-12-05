@@ -32,7 +32,7 @@
   }
 }
 
-.animate__fallIn {
+.fallIn {
   -webkit-animation-name: fallIn;
   animation-name: fallIn;
   -webkit-animation-duration: 2s;

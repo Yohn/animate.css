@@ -22,7 +22,7 @@
   }
 }
 
-.animate__growUp {
+.growUp {
   -webkit-animation-name: growUp;
   animation-name: growUp;
   -webkit-transform-origin: 50% 100%;

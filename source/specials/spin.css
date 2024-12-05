@@ -22,7 +22,7 @@
   }
 }
 
-.animate__spin {
+.spin {
   -webkit-animation-name: spin;
   animation-name: spin;
   -webkit-animation-duration: 1.5s;

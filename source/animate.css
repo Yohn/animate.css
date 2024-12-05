@@ -4,16 +4,18 @@
 /* Attention seekers  */
 @import 'attention_seekers/bounce.css';
 @import 'attention_seekers/flash.css';
+@import 'attention_seekers/headShake.css';
+@import 'attention_seekers/heartBeat.css';
+@import 'attention_seekers/jello.css';
 @import 'attention_seekers/pulse.css';
 @import 'attention_seekers/rubberBand.css';
+@import 'attention_seekers/shake.css';
 @import 'attention_seekers/shakeX.css';
 @import 'attention_seekers/shakeY.css';
-@import 'attention_seekers/headShake.css';
 @import 'attention_seekers/swing.css';
 @import 'attention_seekers/tada.css';
+@import 'attention_seekers/wink.css';
 @import 'attention_seekers/wobble.css';
-@import 'attention_seekers/jello.css';
-@import 'attention_seekers/heartBeat.css';
 
 /* Back entrances */
 @import 'back_entrances/backInDown.css';
@@ -43,33 +45,37 @@
 
 /* Fading entrances  */
 @import 'fading_entrances/fadeIn.css';
+@import 'fading_entrances/fadeInBottomLeft.css';
+@import 'fading_entrances/fadeInBottomRight.css';
 @import 'fading_entrances/fadeInDown.css';
 @import 'fading_entrances/fadeInDownBig.css';
 @import 'fading_entrances/fadeInLeft.css';
 @import 'fading_entrances/fadeInLeftBig.css';
 @import 'fading_entrances/fadeInRight.css';
 @import 'fading_entrances/fadeInRightBig.css';
-@import 'fading_entrances/fadeInUp.css';
-@import 'fading_entrances/fadeInUpBig.css';
+@import 'fading_entrances/fadeInSmoke.css';
 @import 'fading_entrances/fadeInTopLeft.css';
 @import 'fading_entrances/fadeInTopRight.css';
-@import 'fading_entrances/fadeInBottomLeft.css';
-@import 'fading_entrances/fadeInBottomRight.css';
+@import 'fading_entrances/fadeInUp.css';
+@import 'fading_entrances/fadeInUpBig.css';
+@import 'fading_entrances/fallIn.css';
 
 /* Fading exits */
 @import 'fading_exits/fadeOut.css';
+@import 'fading_exits/fadeOutBottomLeft.css';
+@import 'fading_exits/fadeOutBottomRight.css';
 @import 'fading_exits/fadeOutDown.css';
 @import 'fading_exits/fadeOutDownBig.css';
 @import 'fading_exits/fadeOutLeft.css';
 @import 'fading_exits/fadeOutLeftBig.css';
 @import 'fading_exits/fadeOutRight.css';
 @import 'fading_exits/fadeOutRightBig.css';
-@import 'fading_exits/fadeOutUp.css';
-@import 'fading_exits/fadeOutUpBig.css';
+@import 'fading_exits/fadeOutSmoke.css';
 @import 'fading_exits/fadeOutTopLeft.css';
 @import 'fading_exits/fadeOutTopRight.css';
-@import 'fading_exits/fadeOutBottomRight.css';
-@import 'fading_exits/fadeOutBottomLeft.css';
+@import 'fading_exits/fadeOutUp.css';
+@import 'fading_exits/fadeOutUpBig.css';
+@import 'fading_exits/fallOut.css';
 
 /* Flippers */
 @import 'flippers/flip.css';
@@ -79,10 +85,10 @@
 @import 'flippers/flipOutY.css';
 
 /* Lightspeed */
-@import 'lightspeed/lightSpeedInRight.css';
 @import 'lightspeed/lightSpeedInLeft.css';
-@import 'lightspeed/lightSpeedOutRight.css';
+@import 'lightspeed/lightSpeedInRight.css';
 @import 'lightspeed/lightSpeedOutLeft.css';
+@import 'lightspeed/lightSpeedOutRight.css';
 
 /* Rotating entrances */
 @import 'rotating_entrances/rotateIn.css';
@@ -98,26 +104,6 @@
 @import 'rotating_exits/rotateOutUpLeft.css';
 @import 'rotating_exits/rotateOutUpRight.css';
 
-/* Specials */
-@import 'specials/hinge.css';
-@import 'specials/jackInTheBox.css';
-@import 'specials/rollIn.css';
-@import 'specials/rollOut.css';
-
-/* Zooming entrances */
-@import 'zooming_entrances/zoomIn.css';
-@import 'zooming_entrances/zoomInDown.css';
-@import 'zooming_entrances/zoomInLeft.css';
-@import 'zooming_entrances/zoomInRight.css';
-@import 'zooming_entrances/zoomInUp.css';
-
-/* Zooming exits */
-@import 'zooming_exits/zoomOut.css';
-@import 'zooming_exits/zoomOutDown.css';
-@import 'zooming_exits/zoomOutLeft.css';
-@import 'zooming_exits/zoomOutRight.css';
-@import 'zooming_exits/zoomOutUp.css';
-
 /* Sliding entrances */
 @import 'sliding_entrances/slideInDown.css';
 @import 'sliding_entrances/slideInLeft.css';
@@ -129,3 +115,40 @@
 @import 'sliding_exits/slideOutLeft.css';
 @import 'sliding_exits/slideOutRight.css';
 @import 'sliding_exits/slideOutUp.css';
+
+/* Specials */
+@import 'specials/hinge.css';
+@import 'specials/jackInTheBox.css';
+@import 'specials/rollIn.css';
+@import 'specials/rollOut.css';
+@import 'specials/spin.css';
+
+/* Swoop entrances */
+@import 'swoop_entrances/swoopInDown.css';
+@import 'swoop_entrances/swoopInLeft.css';
+@import 'swoop_entrances/swoopInRight.css';
+@import 'swoop_entrances/swoopInUp.css';
+
+/* Swoop exits */
+@import 'swoop_exits/swoopOutDown.css';
+@import 'swoop_exits/swoopOutLeft.css';
+@import 'swoop_exits/swoopOutRight.css';
+@import 'swoop_exits/swoopOutUp.css';
+
+/* Zooming entrances */
+@import 'zooming_entrances/growUp.css';
+@import 'zooming_entrances/zoomIn.css';
+@import 'zooming_entrances/zoomInDown.css';
+@import 'zooming_entrances/zoomInLeft.css';
+@import 'zooming_entrances/zoomInRight.css';
+@import 'zooming_entrances/zoomInSpin.css';
+@import 'zooming_entrances/zoomInUp.css';
+
+/* Zooming exits */
+@import 'zooming_exits/shrinkDown.css';
+@import 'zooming_exits/zoomOut.css';
+@import 'zooming_exits/zoomOutDown.css';
+@import 'zooming_exits/zoomOutLeft.css';
+@import 'zooming_exits/zoomOutRight.css';
+@import 'zooming_exits/zoomOutSpin.css';
+@import 'zooming_exits/zoomOutUp.css';
