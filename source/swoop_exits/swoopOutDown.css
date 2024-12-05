@@ -91,7 +91,7 @@
   96% {
     transform: translate3d(0, 80.75%, 0) scale3d(1, 1.44, 1);
   }
-  
+
   to {
     opacity: 0;
     transform: translate3d(0, 100%, 0) scale3d(1, 1.5, 1);
